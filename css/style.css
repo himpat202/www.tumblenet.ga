@@ -30,6 +30,8 @@
 }
 .icon-block .material-icons {
 	font-size: inherit;
+	font-weight:25;
+	background-color:blue;
 }
 
 
